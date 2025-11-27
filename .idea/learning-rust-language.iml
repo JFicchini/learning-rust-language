@@ -5,9 +5,19 @@
       <sourceFolder url="file://$MODULE_DIR$/section_01/about_me/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/section_01/hello_world/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/section_02/variables_and_mutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_02/compiler_directives/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_02/constants/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_02/scope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_02/type_aliases/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/section_02/variable_shadowing/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/section_01/about_me/target" />
       <excludeFolder url="file://$MODULE_DIR$/section_01/hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/section_02/variables_and_mutability/target" />
+      <excludeFolder url="file://$MODULE_DIR$/section_02/compiler_directives/target" />
+      <excludeFolder url="file://$MODULE_DIR$/section_02/constants/target" />
+      <excludeFolder url="file://$MODULE_DIR$/section_02/scope/target" />
+      <excludeFolder url="file://$MODULE_DIR$/section_02/type_aliases/target" />
+      <excludeFolder url="file://$MODULE_DIR$/section_02/variable_shadowing/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -19,13 +19,83 @@
         <feature name="default" enabled="true" />
       </package>
     </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/section_02/variable_shadowing/Cargo.toml">
+      <package file="$PROJECT_DIR$/section_02/variable_shadowing">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/section_02/scope/Cargo.toml">
+      <package file="$PROJECT_DIR$/section_02/scope">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/section_02/constants/Cargo.toml">
+      <package file="$PROJECT_DIR$/section_02/constants">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/section_02/type_aliases/Cargo.toml">
+      <package file="$PROJECT_DIR$/section_02/type_aliases">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+    <cargoProject FILE="$PROJECT_DIR$/section_02/compiler_directives/Cargo.toml">
+      <package file="$PROJECT_DIR$/section_02/compiler_directives">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45eeb234-5666-4d2d-9d18-e1056985b1a1" name="Changes" comment="starting my journey of learning the rust language">
+    <list default="true" id="45eeb234-5666-4d2d-9d18-e1056985b1a1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/learning-rust-language.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning-rust-language.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/section_01/about_me/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/section_01/about_me/target/.rustc_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/section_01/hello_world/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/section_01/hello_world/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/section_02/variables_and_mutability/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/section_02/variables_and_mutability/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/deps/variables_and_mutability.exe" beforeDir="false" afterPath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/deps/variables_and_mutability.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/deps/variables_and_mutability.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/deps/variables_and_mutability.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq7p2eq-0b8lpbx-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq7p2eq-0b8lpbx-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq7p2eq-0b8lpbx-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq7p2eq-0b8lpbx-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq7p2eq-0b8lpbx.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq80tgc-1o6je4n-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq80tgc-1o6je4n-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq80tgc-1o6je4n-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq80tgc-1o6je4n-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjq80tgc-1o6je4n.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjqd045v-1k1bqw4-dy1vgpio69jsot5bpfw63zxud/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjqd045v-1k1bqw4-dy1vgpio69jsot5bpfw63zxud/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjqd045v-1k1bqw4-dy1vgpio69jsot5bpfw63zxud/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-0ofk5eg324wxd/s-hdcjqd045v-1k1bqw4.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq7p5di-0nuahtp-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq7p5di-0nuahtp-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq7p5di-0nuahtp-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq7p5di-0nuahtp-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq7p5di-0nuahtp.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq80vsy-0galzs0-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq80vsy-0galzs0-working/dep-graph.part.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq80vsy-0galzs0-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq80vsy-0galzs0-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjq80vsy-0galzs0.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjqd03f0-1neqst9-2u6hoqlng6nu1czbrwkeof1vf/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjqd03f0-1neqst9-2u6hoqlng6nu1czbrwkeof1vf/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjqd03f0-1neqst9-2u6hoqlng6nu1czbrwkeof1vf/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-24dsrh338awfu/s-hdcjqd03f0-1neqst9.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/0ft94c6jdgllaqibuy15vyr5u.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/29a63pdusr50pqqnvwac1ewow.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/2k3i4fhx7wxt6w51ptfpk0zqh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/41aanidnespg3atba4wy9jrqq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/4txlhqbu9k2auoxfl891vvlru.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/5111h63lmqqedi430gs3ghwmb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/6n5i0742na94rhh68ud6mwidy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p-872j1jx3poslho1dw888bdldx/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/incremental/variables_and_mutability-2rmiw7tbdbhg8/s-hdcjqhn5vi-0ooni3p.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/variables_and_mutability.exe" beforeDir="false" afterPath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/variables_and_mutability.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/variables_and_mutability.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/section_02/variables_and_mutability/target/debug/variables_and_mutability.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +132,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cargo.Run constants.executor": "Run",
+    "Cargo.Run scope.executor": "Run",
     "Cargo.Run variables_and_mutability.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,6 +142,7 @@
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/temp/Rust/learning-rust-language",
     "node.js.detected.package.eslint": "true",
@@ -84,7 +157,41 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cargo.Run constants">
+    <configuration name="Run constants" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package constants --bin constants" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/section_02/constants" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run scope" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package scope --bin scope" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/section_02/scope" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run variables_and_mutability" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="buildProfileId" value="dev" />
       <option name="command" value="run --package variables_and_mutability --bin variables_and_mutability" />
@@ -105,6 +212,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run constants" />
+        <item itemvalue="Cargo.Run scope" />
         <item itemvalue="Cargo.Run variables_and_mutability" />
       </list>
     </recent_temporary>
@@ -122,7 +231,9 @@
       <workItem from="1763834466546" duration="5631000" />
       <workItem from="1763997223873" duration="665000" />
       <workItem from="1763998651066" duration="1794000" />
-      <workItem from="1764174895490" duration="2598000" />
+      <workItem from="1764174895490" duration="3270000" />
+      <workItem from="1764246308007" duration="5415000" />
+      <workItem from="1764262825620" duration="691000" />
     </task>
     <task id="LOCAL-00001" summary="starting my journey of learning the rust language">
       <option name="closed" value="true" />
@@ -132,14 +243,42 @@
       <option name="project" value="LOCAL" />
       <updated>1763834898785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Section 2: Variables and Mutability">
+      <option name="closed" value="true" />
+      <created>1764177923172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764177923172</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Section 2: Variables and Mutability">
+      <option name="closed" value="true" />
+      <created>1764178029670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764178029670</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starting my journey of learning the rust language" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting my journey of learning the rust language" />
+    <MESSAGE value="Section 2: Variables and Mutability" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 2: Variables and Mutability" />
   </component>
 </project>
